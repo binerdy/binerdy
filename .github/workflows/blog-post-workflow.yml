@@ -1,0 +1,17 @@
+name: Latest blog post workflow
+on:
+  workflow_dispatch:
+    # Allow manual trigger.
+  schedule:
+    # Runs at 00:00 every sunday.
+    - cron: '0 0 * * 0'
+
+jobs:
+  update-readme-with-blog:
+    name: Update github profile latest blogs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: binerdy/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@Alan.Meile"
