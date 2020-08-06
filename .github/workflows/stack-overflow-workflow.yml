@@ -1,5 +1,7 @@
 name: Latest stack overflow activity
 on:
+  workflow_dispatch:
+    # Allow manual trigger.
   schedule:
     # Runs at 18:00 every day.
     - cron: '0 18 * * *'
