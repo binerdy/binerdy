@@ -9,3 +9,7 @@ I completed my apprenticeship as well as my studies in Information Technologies.
 - [5 things I learnt in a  Professional Agile Course](https://medium.com/@alan.meile/5-things-i-learnt-in-a-professional-agile-course-7755d7a5ed54?source=rss-ccd8707e0a7b------2)
 - [Read Secrets from Azure Key Vault (.NET Core 3.0)](https://medium.com/@alan.meile/read-secrets-from-azure-key-vault-net-core-3-0-982b5485f642?source=rss-ccd8707e0a7b------2)
 <!-- BLOG-POST-LIST:END -->
+
+## StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
