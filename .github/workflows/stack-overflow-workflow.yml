@@ -1,0 +1,17 @@
+name: Latest stack overflow activity
+on:
+  schedule:
+    # Runs at 18:00 every day.
+    - cron: '0 18 * * *'
+
+jobs:
+  update-readme-with-stack-overflow:
+    name: Update github profile stack overflow activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "STACKOVERFLOW"
+          commit_message: "Update readme with the latest stack overflow data"
+          feed_list: "https://stackoverflow.com/feeds/user/5085220"
