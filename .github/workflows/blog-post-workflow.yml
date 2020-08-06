@@ -14,4 +14,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "BLOGS"
+          commit_message: "Update readme with the latest blogs data"
           feed_list: "https://medium.com/feed/@Alan.Meile"
