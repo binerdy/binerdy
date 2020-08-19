@@ -16,4 +16,6 @@ jobs:
         with:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Update readme with the latest stack overflow data"
+          commit_user_email: alan.meile@gmail.com
+          commit_author: Binerdy <alan.meile@gmail.com>
           feed_list: "https://stackoverflow.com/feeds/user/5085220"

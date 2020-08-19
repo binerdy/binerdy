@@ -16,4 +16,6 @@ jobs:
         with:
           comment_tag_name: "BLOGS"
           commit_message: "Update readme with the latest blogs data"
+          commit_user_email: alan.meile@gmail.com
+          commit_author: Binerdy <alan.meile@gmail.com>
           feed_list: "https://medium.com/feed/@Alan.Meile"
