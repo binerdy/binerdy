@@ -18,3 +18,6 @@ I completed my apprenticeship as well as my studies in Information Technologies.
 - [Problems accessing property](https://stackoverflow.com/questions/48366647/problems-accessing-property)
 - [Answer by Alan Meile for Android Studio Emulator crashes on LocationServices.fusedLocationApi](https://stackoverflow.com/questions/32994061/android-studio-emulator-crashes-on-locationservices-fusedlocationapi/44291555#44291555)
 <!-- STACKOVERFLOW:END -->
+
+## Codewars
+![codewars](https://www.codewars.com/users/binerdy/badges/large)
