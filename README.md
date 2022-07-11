@@ -21,3 +21,7 @@ I completed my apprenticeship as well as my studies in Information Technologies.
 
 ## Badges
 ![codewars](https://www.codewars.com/users/binerdy/badges/small)
+
+## Most used language
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binerdy&langs_count=8&layout=compact)](https://github.com/binerdy)
